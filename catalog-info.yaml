@@ -5,6 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: backstagetestsorg/checkingbs
 spec:
-  type: other
-  lifecycle: unknown
+  type: website
+  lifecycle: development
   owner: shubham20022
