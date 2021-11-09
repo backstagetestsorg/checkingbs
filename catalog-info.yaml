@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: checkingbs
+  annotations:
+    github.com/project-slug: backstagetestsorg/checkingbs
+spec:
+  type: other
+  lifecycle: unknown
+  owner: shubham20022
