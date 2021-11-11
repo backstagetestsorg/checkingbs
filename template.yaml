@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1beta2
 kind: Template
 metadata:
   name: dot-net-template
-  title: React SSR Template
+  title: TCS DotNet App Template
   description: Create a dot net app
   tags:
     - recommended
